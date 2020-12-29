@@ -1,0 +1,18 @@
+.form-label{
+    font-size: 30px;
+    font-weight: normal;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Work Sans', sans-serif;
+}
+.container{
+    background-color: #a8d8ea;
+    margin-top: 40px;
+    width: 800px;
+}
+.mb-3{
+    padding : 50px;
+}
+.btn{
+    width: 500px;
+    margin: 30px 80px 0px;
+}

@@ -1,0 +1,13 @@
+
+    .title1{
+        font-family: 'Noto Serif', serif;
+        color: #aa96da;
+        background-color: #ffffd2;
+        font-size: 3em;
+        text-align: center;
+        padding: 20px;
+      }
+      nav{
+        font-size: 20px;
+        padding-left: 25%;
+      }

@@ -1,0 +1,14 @@
+.container{
+    background-color: #a8d8ea;
+    margin-top: 40px;
+    width: 800px;
+}
+table{
+    width: 800px;
+}
+tr{
+    font-size: 30px;
+    font-weight: normal;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Work Sans', sans-serif;
+}
